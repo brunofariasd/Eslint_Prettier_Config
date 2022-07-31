@@ -1,1 +1,1 @@
-Eslint_Prettier_Config
+Configs editor.
